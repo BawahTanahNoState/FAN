@@ -1,0 +1,82 @@
+
+
+.header{
+    margin-left: 3%;
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+    background-color: black;
+    height: 20px;
+    padding: 2%;
+    outline: 0.5px solid black;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+.konten{
+    outline: 0.5px solid black;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(238, 238, 238);
+    padding: 1%;
+    height: auto;
+}
+
+.gambar img{
+    width: 45%;
+    outline: 1px solid black;
+}
+
+.bacaan{
+    font-size: 15px;
+}
+
+.bacaan a{
+    text-decoration: none;
+}
+
+.bacaan h1{
+    margin: 2%;
+}
+
+.bacaan img{
+    width: 10%;
+    float: left;
+    margin-right: 1%;
+}
+
+.footer{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(255, 255, 255);
+    outline: 1px solid black;
+    height: auto;
+    padding: 0%;
+}
+.footer img{
+    width: 20%;
+    display: block;
+    margin-bottom: 0%;
+}
+
+.footer h1{
+    margin-top: 0%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+
