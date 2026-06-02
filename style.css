@@ -1,8 +1,11 @@
-
+*{
+}
 
 .header{
     margin-left: 3%;
 }
+
+
 
 .header a{
     text-decoration: none;
@@ -42,6 +45,7 @@
 
 .bacaan{
     font-size: 15px;
+    margin-right: 30%;
 }
 
 .bacaan a{
@@ -78,5 +82,26 @@
     background-color: black;
     color: white;
     margin-bottom: 0;
+}
+
+.sidebar{
+    position: fixed;
+    position: absolute;
+    width: 300px;
+    height: auto;
+    background-color: rgb(238, 238, 238);
+    margin-left: 71%;
+    margin-top: 1%;
+    outline: 1px solid black;
+}
+
+.sidebar img{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.bacaan p1{
+    font-style: italic;
+    font-weight: bold;
 }
 
